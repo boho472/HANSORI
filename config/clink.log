@@ -1,0 +1,13 @@
+4220 inject                    545 ---- 2022/02/12 21:10:02.038 -------------------------------------------------
+4220 inject                    546 Injecting Clink...
+4220 copy_dll                  122 *** ERROR ***
+4220 copy_dll                  122 Failed to copy DLL to 'C:\Users\Ïù¥Ï§ÄÌò∏\AppData\Local\Temp\clink\dll_cache\1.2.46.69fc92_5ee3a3f6\clink_dll_x64.dll'
+4220 copy_dll                  122 (last error = 3)
+4220 inject_dll                264 Version: 1.2.46.69fc92
+4220 inject_dll                265 Arch: x64
+4220 inject_dll                266 DLL: C:\Users\¿Ã¡ÿ»£\Downloads\cmder\vendor\clink\clink_dll_x64.dll
+4220 inject_dll                268 Parent pid: 13364
+4220 check_dll_version         154 *** ERROR ***
+4220 check_dll_version         154 Unable to get DLL version for 'C:\Users\¿Ã¡ÿ»£\Downloads\cmder\vendor\clink\clink_dll_x64.dll'
+4220 check_dll_version         154 (last error = 2)
+4220 inject_dll                273 EXE version: 00010002 0000002e
